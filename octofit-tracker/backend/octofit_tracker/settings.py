@@ -26,6 +26,7 @@ SECRET_KEY = "django-insecure-p4@@^$4*0$+iu2$%w@0j(%bfyyrkum3mu8my+7tx26wzt23ij0
 DEBUG = True
 
 ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS += ['stunning-funicular-8000.app.github.dev', 'localhost']
 
 
 # Application definition
